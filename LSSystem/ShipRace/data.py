@@ -1,0 +1,16 @@
+
+# window size
+WIDTH = 550
+HEIGHT = 600
+
+
+FPS = 60
+
+# colors
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+GREEN = (0,255,0)
+GRAY = (160,160,160)
+HARD_GRAY = (100,100,100)
+PURPLE = (102, 0, 204)
+LIGHT_PURPLE = (204,0,204)
